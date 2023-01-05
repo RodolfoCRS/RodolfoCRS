@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/rodolfocrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfocrs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfocrs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
@@ -20,3 +20,4 @@
  ![Snake animation](https://github.com/rodolfocrs/rodolfocrs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ -->
